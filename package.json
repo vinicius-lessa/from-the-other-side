@@ -1,0 +1,12 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that serves static files and handles API requests.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "author": "Vinícius Lessa",
+  "license": "ISC"
+}
